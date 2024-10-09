@@ -4,6 +4,9 @@
   "newProjectRoot": "projects",
   "projects": {
     "test-inter": {
+      "i18n": {
+        "sourceLocale": "en-US"
+      },
       "projectType": "application",
       "schematics": {},
       "root": "",
